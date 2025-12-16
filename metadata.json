@@ -1,0 +1,7 @@
+{
+  "name": "BAMAB Lekdetectie",
+  "description": "Professionele rapportage tool voor lekdetectie specialisten. Genereer automatische verzekeringsrapporten op basis van foto's en notities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
